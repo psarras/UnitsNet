@@ -154,6 +154,10 @@
           "Abbreviations": [ "jyr", "jyear", "jyears" ]
         }
       ]
+    },
+    {
+      "SingularName": "SomethingElse",
+      "PluralName":"Days"
     }
   ]
 }
